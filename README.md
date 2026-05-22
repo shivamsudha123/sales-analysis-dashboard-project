@@ -11,3 +11,7 @@
 
 
 ![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/1348c6896e3c4d1634093327545ec324e6e0391e/Dashboard%20Images/Sales%20Team%20Performance.png)
+
+
+
+![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/e2c07b52038819d41dde73790bfff86b5e8d6040/Dashboard%20Images/Customer%20Analysis.png)
