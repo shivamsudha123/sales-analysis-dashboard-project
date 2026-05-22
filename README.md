@@ -5,3 +5,6 @@
 
 
 ![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/5acc71312ee94994a502d82148b380ee76518bc4/Dashboard%20Images/Product%20Performance.png)
+
+
+![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/0f1c937f81c678d5168db082eb06cec8dd9a1499/Dashboard%20Images/Store%20Analysis.png)
