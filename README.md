@@ -4,7 +4,7 @@
 
 [Download Report Pdf](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/5060b1e92cec272f106ae562b0ebc50790804023/Report/Report%202.pdf)
 
-##Description
+## Description
 
 An interactive sales analytics dashboard project  built in Microsoft Excel using Pivot Tables and charts to visualize key business insights. The project tracks product performance, store analysis, sales team performance and customer analysis  through dynamic filters and KPIs.
 
