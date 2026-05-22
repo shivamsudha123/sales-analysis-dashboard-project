@@ -1,6 +1,7 @@
 # sales-analysis-dashboard-project
 
-
+##Download Report Pdf 
+[Download Report Pdf](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/5060b1e92cec272f106ae562b0ebc50790804023/Report/Report%202.pdf)
 ![dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/472933563db55a081efbaf7a841913e2f53ac45b/Dashboard%20Images/Overview%20.png)
 
 
