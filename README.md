@@ -8,3 +8,6 @@
 
 
 ![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/0f1c937f81c678d5168db082eb06cec8dd9a1499/Dashboard%20Images/Store%20Analysis.png)
+
+
+![Dashboard](https://github.com/shivamsudha123/sales-analysis-dashboard-project/blob/1348c6896e3c4d1634093327545ec324e6e0391e/Dashboard%20Images/Sales%20Team%20Performance.png)
